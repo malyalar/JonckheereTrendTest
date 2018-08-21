@@ -2,6 +2,10 @@
 
 A simplified, modifiable R function to conduct the Jonckheere-Terpstra trend test, a method of comparing trends in distributions corresponding to ordinal indepedent factors.
 
+#### A graphic from an example correlation that was evaluated to be p<0.001 with the Jonckheere trend test.
+
+<img src="https://github.com/malyalar/JonckheereTrendTest/blob/master/Rplot02.png">
+
     Information:
   
     The Jonckheere-Terpstra test is a test that evaluates 
